@@ -62,7 +62,148 @@
 
 ---
 
-## About Me
+
+paste this next:
+
+```md
+---
+
+## Main Builds
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### RecoBuddy
+
+Roadside assistance marketplace with:
+
+- realtime job updates
+- driver bidding
+- Stripe hold and capture flow
+- live driver tracking
+- chat
+- push notifications
+- Kubernetes deployment
+
+**Stack:** Flutter, Node.js, TypeScript, MongoDB, Kafka, Redis, Socket.IO, Stripe, Kubernetes
+
+</td>
+<td width="50%" valign="top">
+
+### ProFatura
+
+Desktop business software focused on:
+
+- invoices
+- quotes
+- inventory
+- lot tracking
+- accounting foundations
+- fiscal-ready architecture
+
+**Stack:** Tauri 2, React, TypeScript, SQLite, Drizzle ORM, Zustand, Tailwind, shadcn/ui
+
+</td>
+</tr>
+</table>
+
+---
+
+## Current Loadout
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Editor-VS_Code-0f172a?style=for-the-badge&logo=visualstudiocode&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/Backend-Node.js-0f172a?style=for-the-badge&logo=node.js&logoColor=5FA04E" />
+<img src="https://img.shields.io/badge/Frontend-React_/_Next.js-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Mobile-Flutter-0f172a?style=for-the-badge&logo=flutter&logoColor=54C5F8" />
+<img src="https://img.shields.io/badge/Desktop-Tauri-0f172a?style=for-the-badge&logo=tauri&logoColor=FFC131" />
+<img src="https://img.shields.io/badge/Infra-Docker_/_Kubernetes_/_EC2-0f172a?style=for-the-badge&logo=docker&logoColor=2496ED" />
+
+</div>
+
+---
+
+## Focus Board
+
+<div align="center">
+
+| Area | Focus |
+|---|---|
+| Backend | TypeScript APIs, realtime architecture, clean contracts |
+| Mobile | Flutter apps with actual product value |
+| Desktop | Tauri business software |
+| Infra | Docker, Kubernetes, EC2, scalable deployment flow |
+| Product | Useful software, premium UI, practical features |
+
+</div>
+
+---
+
+## GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=kevinmerlika&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
+
+</div>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kevinmerlika&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinmerlika&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br />
+
+<img height="170" src="https://streak-stats.demolab.com?user=kevinmerlika&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kevinmerlika&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+## Featured Repositories
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=kevinmerlika&repo=tripplanner&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=kevinmerlika&repo=TSNodeAPI&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## Terminal
+
+```bash
+> whoami
+Kevin Merlika
+
+> role
+Full Stack Developer
+
+> stack
+TypeScript / Node.js / React / Next.js / Flutter / Tauri
+
+> infra
+Docker / Kubernetes / EC2
+
+> current_status
+Building clean software that actually ships
 
 ```ts
 const kevin = {

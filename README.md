@@ -82,5 +82,33 @@ const kevin = {
   ],
   currentProjects: ["RecoBuddy", "ProFatura"]
 };
+## Main Builds
 
-I build backend systems, mobile apps, desktop apps, admin tools, and infra that actually survives outside tutorial land.
+### RecoBuddy
+
+Roadside assistance marketplace with:
+
+- realtime job updates
+- driver bidding
+- Stripe hold and capture flow
+- live driver tracking
+- chat
+- push notifications
+- Kubernetes deployment
+
+**Stack:** Flutter, Node.js, TypeScript, MongoDB, Kafka, Redis, Socket.IO, Stripe, Kubernetes
+
+---
+
+### ProFatura
+
+Desktop business software focused on:
+
+- invoices
+- quotes
+- inventory
+- lot tracking
+- accounting foundations
+- fiscal-ready architecture
+
+**Stack:** Tauri 2, React, TypeScript, SQLite, Drizzle ORM, Zustand, Tailwind, shadcn/ui

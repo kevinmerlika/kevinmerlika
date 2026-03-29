@@ -82,3 +82,5 @@ const kevin = {
   ],
   currentProjects: ["RecoBuddy", "ProFatura"]
 };
+
+I build backend systems, mobile apps, desktop apps, admin tools, and infra that actually survives outside tutorial land.

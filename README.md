@@ -1,54 +1,33 @@
-<h1 align="center">Hi 👋, I'm Kevin Merlika</h1>
-<h3 align="center">Full Stack Developer | TypeScript, Node.js, React, Tauri, Flutter</h3>
+<div align="center">
 
-<p align="center">
-  I build backend systems, realtime apps, desktop software, and mobile apps.
-</p>
+# Kevin Merlika
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;TypeScript+%7C+Node.js+%7C+React+%7C+Next.js;Tauri+Desktop+Apps+%7C+Flutter+Mobile+Apps;Docker+%7C+Kubernetes+%7C+EC2+%7C+Realtime+Systems" alt="Typing SVG" />
 
-## 🚀 About Me
+<br/>
 
-- Full stack developer focused on modern app architecture
-- Backend: Node.js, TypeScript, APIs, realtime systems
-- Frontend: React, Next.js
-- Desktop: Tauri
-- Mobile: Flutter, Android
-- Infra: Docker, Kubernetes, EC2
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,30:1e1b4b,60:312e81,100:06b6d4&text=Building%20Modern%20Apps&fontColor=ffffff&fontSize=42&fontAlignY=40&desc=Backend%20%E2%80%A2%20Mobile%20%E2%80%A2%20Desktop%20%E2%80%A2%20Infra&descAlignY=60" alt="banner" />
+
+</div>
 
 ---
 
-## 🛠 Tech Stack
+##  About Me
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,flutter,dart,docker,kubernetes,aws,postgres,mongodb,git,github,vscode" />
-</p>
-
----
-
-## 📌 Featured Projects
-
-- **RecoBuddy** – roadside assistance marketplace with realtime updates, payments, tracking
-- **ProFatura** – desktop business/accounting app with Tauri + React + SQLite
-- **TripPlanner** – travel planning app
-- **Admin Panels / APIs / Web apps** – various TypeScript and React projects
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kevinmerlika&show_icons=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kevinmerlika&hide_border=true" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p>
-  <a href="https://github.com/kevinmerlika">GitHub</a>
-</p>
+```ts
+const kevin = {
+  location: "Albania",
+  role: "Full Stack Developer",
+  backend: ["Node.js", "TypeScript", "REST APIs", "Realtime Systems"],
+  frontend: ["React", "Next.js"],
+  mobile: ["Flutter", "Android"],
+  desktop: ["Tauri"],
+  infra: ["Docker", "Kubernetes", "EC2"],
+  databases: ["PostgreSQL", "MongoDB", "SQLite"],
+  currentFocus: [
+    "Scalable backend systems",
+    "Desktop business software",
+    "Realtime architecture",
+    "Clean product-focused UI"
+  ]
+};

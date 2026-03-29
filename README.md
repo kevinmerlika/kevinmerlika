@@ -90,31 +90,35 @@ I build backend systems, mobile apps, desktop apps, admin tools, and infra that 
 
 ## Main Builds
 
-### RecoBuddy
+### 🚗 RecoBuddy
 
-Roadside assistance marketplace with:
+> Roadside assistance marketplace built around realtime workflows.
+>
+> **Features**
+> - realtime job updates
+> - driver bidding
+> - Stripe hold and capture flow
+> - live driver tracking
+> - chat
+> - push notifications
+> - Kubernetes deployment
+>
+> **Stack**  
+> Flutter · Node.js · TypeScript · MongoDB · Kafka · Redis · Socket.IO · Stripe · Kubernetes
 
-- realtime job updates
-- driver bidding
-- Stripe hold and capture flow
-- live driver tracking
-- chat
-- push notifications
-- Kubernetes deployment
+<br />
 
-**Stack:** Flutter, Node.js, TypeScript, MongoDB, Kafka, Redis, Socket.IO, Stripe, Kubernetes
+### 🧾 ProFatura
 
----
-
-### ProFatura
-
-Desktop business software focused on:
-
-- invoices
-- quotes
-- inventory
-- lot tracking
-- accounting foundations
-- fiscal-ready architecture
-
-**Stack:** Tauri 2, React, TypeScript, SQLite, Drizzle ORM, Zustand, Tailwind, shadcn/ui
+> Desktop business software focused on practical business workflows.
+>
+> **Features**
+> - invoices
+> - quotes
+> - inventory
+> - lot tracking
+> - accounting foundations
+> - fiscal-ready architecture
+>
+> **Stack**  
+> Tauri 2 · React · TypeScript · SQLite · Drizzle ORM · Zustand · Tailwind · shadcn/ui
